@@ -6,5 +6,4 @@ simple_dict = {
 }
 
 for key,value in simple_dict.items():
-    print(f"{key}=>{value}")
-    
+    print(f"Dict key=>value is: {key}=>{value}")

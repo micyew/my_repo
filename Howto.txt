@@ -1,0 +1,23 @@
+How to install WSL on Windows10?
+https://learn.microsoft.com/en-us/windows/wsl/install
+https://pbpython.com/wsl-python.html
+https://pbpython.com/wsl-python.html
+
+
+How to rename untitle workspace in VScode?
+https://www.reddit.com/r/vscode/comments/9i94vd/renaming_workspace_name/?rdt=58455
+
+How to create new repo in Github?
+https://handsondataviz.org/create-repo.html
+
+
+How to install and use pyenv?
+https://learnpython.com/blog/change-python-versions/
+https://realpython.com/intro-to-pyenv/
+
+
+
+How to update pyenv?
+https://stackoverflow.com/questions/71703734/how-to-upgrade-version-of-pyenv-on-ubuntu
+- cd ~/.pyenv
+- git pull
